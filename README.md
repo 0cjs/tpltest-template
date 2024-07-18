@@ -1,4 +1,6 @@
 Template Repository
 ===================
 
-XXX fill this in
+XXX Not ready to go on main!
+
+Tentative description here.
